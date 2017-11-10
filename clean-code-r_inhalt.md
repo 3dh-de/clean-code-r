@@ -29,14 +29,14 @@ Form: Vortragsreihe
 
 * Themen:
 	* Teil 1: Aufgaben eines Entwicklers, Alltagsprobleme, Code-Qualität 
-		* Publikum: eure Programmiersprachen, eure Fragen+Probleme+Wunschthemen 
-        	* Vortragender: seine Ausreden, seine vorgefertigten Themen :P 
-		* Einführung in **Clean Code Developer** und **Pragmatischer Programmierer** 
-        	* Code-Dojo: Fehler live (re)produzieren 
+		* Publikum: eure Programmiersprachen, eure Fragen+Probleme+Wunschthemen
+		* Vortragender: seine Ausreden, seine vorgefertigten Themen :P
+		* Einführung in **Clean Code Developer** und **Pragmatischer Programmierer**
+		* Code-Dojo: Fehler live (re)produzieren
 	* Teil 2: Methodiken, Prinzipien, Standards, Fortsetzung von *Clean Code Developer* 
 		* Code-Dojo: den oder die ersten CCD Gürtel verdienen 
 	* Teil 3: Automatisierung, Tools, professionelles Testen 
-        	* Code-Dojo: eigene UnitTests und automatisierte Builds kredenzen 
+		* Code-Dojo: eigene UnitTests und automatisierte Builds kredenzen 
 
 Da die Themen eigentlich ganze Semester im Informatikstudium füllen, wird der Umfang abhängig vom Publikum gewählt - d.h. ggf. mehr Sessions gemacht.
 
