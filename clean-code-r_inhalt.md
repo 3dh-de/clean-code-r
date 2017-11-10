@@ -1,6 +1,6 @@
-Autor: christian@3DH.de // www.3dh.de // Christian Dähn
-Lizenz: Public Domain
-Form: Vortragsreihe
+Autor: christian@3DH.de // www.3dh.de // Christian Dähn 
+Lizenz: Public Domain 
+Form: Vortragsreihe 
 
 # Clean Code(r)
 ## Develop.Your.Self
@@ -47,9 +47,9 @@ Da die Themen eigentlich ganze Semester im Informatikstudium füllen, wird der U
 	* Teamwork, Lonewolv Devs, DevOps
 	* CI+CD - Continuous Integration+Deployment, Feature-Branches & Git-Flow
 
-* Literatur:
-http://clean-code-developer.de/
-http://www.pragmatischprogrammieren.de/pragprog/
+* Literatur: 
+http://clean-code-developer.de/ 
+http://www.pragmatischprogrammieren.de/pragprog/ 
 
 * Mitbringsel / Voraussetzungen für Zuhörer:
 	* keine oder beliebige Programmierkenntnisse
