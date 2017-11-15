@@ -5,8 +5,7 @@ Form: Vortragsreihe
 # Clean Code(r)
 ## oder: Vom Frickler zum Entwickler.
 
-* Abstract:
-  Jeder kennt es: Eben schnell mal was proggen (programmieren), was zusammenbasteln und tadaaaah: Es läuft! Aber: Es läuft gerade so und der Code sieht aus wie ein modernes ASCII-Art Kunstwerk. Nur: Wie soll denn "Clean Code" aussehen und wie wird man vom ambitionierten Programmierer (Frickler) zu einem professionellen Entwickler? 
+Jeder kennt es: Eben schnell mal was proggen (programmieren), was zusammenbasteln und tadaaaah: Es läuft! Aber: Es läuft gerade so und der Code sieht aus wie ein modernes ASCII-Art Kunstwerk. Nur: Wie soll denn "Clean Code" aussehen und wie wird man vom ambitionierten Programmierer (Frickler) zu einem professionellen Entwickler? 
 Anhand eingängiger (negativ-)Beispiele wird gezeigt, was eigentlich typische Probleme sind, warum und was man dagegen tun kann. Pragmatisch werden Tools, Methoden und Vorgehensmodelle vorgestellt und auch Tipps für den Entwickleralltag vermittelt. Die Vortragsreihe besteht dabei aus mindestens 2 Teilen, abhängig vom Publikum.
 
 * Zweck:
