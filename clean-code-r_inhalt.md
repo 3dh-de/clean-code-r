@@ -10,7 +10,7 @@ Anhand eingängiger (negativ-)Beispiele wird gezeigt, was eigentlich typische Pr
 
 * Zweck:
 	* **Wissen** zu Methodiken, Vorgehensmodellen und typischen Fehlern vermitteln
-	* **Beispiele** für guten Code und effiziente Entwicklung liefern
+	* **Beispiele** für ~~guten~~ schlechten Code und effiziente Entwicklung liefern
 	* **Weiterentwicklung** des Entwicklers zu einem effizienteren Tool :P
 	* **Perspektivwechsel** nicht über Code reden, sondern das Coden verbessern
 
