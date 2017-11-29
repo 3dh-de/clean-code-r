@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 
+use strict 'vars';
+
 # EDIT HERE:
 my $device  = "eth0";
 my $seconds = 10;
